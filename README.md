@@ -1,6 +1,5 @@
 # flutter_app
-
-A new Flutter application.
+Flutter Application for an outline of an delivery application
 
 ## Getting Started
 
